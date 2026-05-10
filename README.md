@@ -39,11 +39,11 @@ This repository contains the data, visualisation code, and modelling scripts use
 │   └── processed/
 │       └── Nickel_Aluminium_Data_Workbook.xlsx
 ├── scripts/
-│   ├── graphs.py               ← Main visualisation script (both graphs)
-│   └── ou_model.py             ← Ornstein-Uhlenbeck regime estimation + Monte Carlo
+│   ├── Nickel and Aluminium.ipynb      ← Main visualisation script (both graphs) and Ornstein-Uhlenbeck regime estimation + Monte Carlo
 └── outputs/
-    ├── graph1_nickel_2019_2026.png
-    └── graph2_aluminium_2019_2025.png
+    ├── graph1_nickel_2019_2026.png (Screenshot 120143)
+    └── graph2_aluminium_2019_2025.png (Screenshot 120322)
+    └── ou_model_results.png
 ```
 
 ---
