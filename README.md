@@ -121,8 +121,6 @@ Fitted separately across two periods:
 | $\kappa$ (reversion speed) | Higher | Lower — slower reversion |
 | Regime interpretation | Class I nickel dominates | Indonesian cost floor anchors price |
 
-The supercycle narrative was not just directionally wrong — it was operating in a different statistical regime.
-
 ### Aluminium — Monte Carlo Procurement Risk
 
 Two sets of OU parameters are estimated:
@@ -158,7 +156,7 @@ Monte Carlo simulation (10,000 paths, 252-day horizon) shows procurement cost di
 If you use this data or code in your own work, please cite as:
 ```
 Sondhi, K. (2026). Two Metals, Two Broken Benchmarks: Price Discovery Failures
-in Nickel and Aluminium. Substack. https://YOUR_SUBSTACK.substack.com/p/...
+in Nickel and Aluminium. Substack. https://kshitanjay.substack.com/p/two-metals-two-broken-benchmarks
 ```
 ---
 
