@@ -1,6 +1,7 @@
 # Nickel-And-Aluminium-Price-Reporting-2019-2026
 # Two Metals, Two Broken Benchmarks
 ## Price Discovery Failures in Nickel and Aluminium (2019–2026)
+https://kshitanjay.substack.com/p/two-metals-two-broken-benchmarks
 
 > *Companion repository to the Substack article: "Two Metals, Two Broken Benchmarks: Why Nickel and Aluminium Need Better Price Discovery"*
 
@@ -162,16 +163,6 @@ Monte Carlo simulation (10,000 paths, 252-day horizon) shows procurement cost di
 | All-in US aluminium price | $4,580.29/t | October 2025 |
 
 ---
-
-## Related Work
-
-This analysis is part of a broader research programme on commodity price discovery and stochastic modelling:
-
-- **Copper Stochastic Pricing Model** — Ornstein-Uhlenbeck, Markov regime-switching, and Monte Carlo simulation applied to LME copper (2010–2024). [[GitHub]](https://github.com/YOUR_USERNAME/copper-pricing-model) [[SSRN]](https://ssrn.com/YOUR_PAPER)
-- **Substack — Sovereign Risk & Commodity Markets** — Regular analysis on EM sovereign debt, commodity price dynamics, and price reporting methodology. [[Substack]](https://YOUR_SUBSTACK.substack.com)
-
----
-
 ## Citation
 
 If you use this data or code in your own work, please cite as:
