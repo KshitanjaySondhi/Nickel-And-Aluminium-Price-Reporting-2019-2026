@@ -65,27 +65,17 @@ All data is manually transcribed from official sources and hardcoded in the scri
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nickel-aluminium-benchmarks.git
+git clone https://github.com/KshitanjaySondhi/nickel-aluminium-benchmarks.git
 cd nickel-aluminium-benchmarks
 pip install -r requirements.txt
 ```
 ---
 
 ## Usage
-### Generate both graphs
+### Generate both graphs and OU model
 
 ```bash
-python scripts/graphs.py
-```
-
-Outputs saved to `/outputs/`:
-- `graph1_nickel_2019_2026.png` — LME Nickel price vs Indonesian production share
-- `graph2_aluminium_2019_2025.png` — LME Aluminium vs Midwest Premium (with all-in price)
-
-### Run the stochastic model
-
-```bash
-python scripts/ou_model.py
+NickelAluminium.ipynb
 ```
 
 This script:
@@ -176,8 +166,8 @@ in Nickel and Aluminium. Substack. https://YOUR_SUBSTACK.substack.com/p/...
 
 **Kshitanjay Sondhi**
 MSc Development Economics, London School of Economics (Distinction)
-BA Economics, Delhi University (First Class, 4th of 85)
-Former Economist — Risk Quantification & Model Development, S&P Global Market Intelligence
+BA Economics, Delhi University
+Former Economist, Risk Quantification & Model Development, S&P Global Market Intelligence, London, UK
 
 ---
 ## License
